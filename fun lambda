@@ -1,0 +1,7 @@
+# assignment4
+l=10
+lambda x:x+25
+def num(x):
+    return x+34
+print(num(1))
+
