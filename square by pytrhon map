@@ -1,0 +1,6 @@
+# assignment4
+def squre(num):
+    return num**2
+sample_list=[4,5,2,9]
+val=list(map(squre,sample_list))
+print(val)
